@@ -1,0 +1,35 @@
+.ren{
+   width: 200px;
+   border: solid rgb(255, 255, 255) 2px;
+   margin-top: 10px;
+   font-size: xx-large;
+   text-align: center;
+   color: white;
+}
+.Listen{
+   margin-left: 40%;
+
+}
+.tittel{
+    text-align: center;
+    color: white;
+}
+.bak{
+    background-color: #224a3b;
+}
+a:link{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited{
+    color:white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover{
+ color: rgba(255, 255, 255, 0.689);
+ background-color: transparent;
+ text-decoration: underline;
+}
